@@ -1,0 +1,16 @@
+[
+  {
+    "Item1ID": 14,
+    "Item1Amount": 2,
+    "Item2ID": 15,
+    "Item2Amount": 2,
+    "ItemForgeResult": 9
+  },
+  {
+    "Item1ID": 14,
+    "Item1Amount": 2,
+    "Item2ID": 16,
+    "Item2Amount": 1,
+    "ItemForgeResult": 8
+  }
+]
